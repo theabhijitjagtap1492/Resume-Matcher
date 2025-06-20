@@ -57,4 +57,4 @@ The application works as follows:
 1.  **PDF Extraction**: Text is extracted from the uploaded PDF files.
 2.  **Skill Extraction**: A predefined list of common skills is used to find which skills are mentioned in the job description and the resume.
 3.  **Scoring**: A score is calculated based on the ratio of matched skills to the total skills required in the job description.
-4.  **Feedback Generation**: The app generates feedback detailing the matched skills, missing skills, and a final "Fit for Role" assessment.
+4.  **Feedback Generation**: The app generates feedback detailing the matched skills, missing skills, and a final "Fit for Role" assessment. 
